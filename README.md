@@ -1,2 +1,2 @@
 # pageRank_in_C
-Implementing pageRank algorithm in C
+Implement page rank algorithm in C
